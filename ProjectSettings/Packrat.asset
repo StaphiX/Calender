@@ -1,0 +1,25 @@
+{"links":[
+
+{
+	"sourceFolderPath":"Assets/Resources/Textures/Atlases/Test",
+	"atlasFilePath":"Assets/Resources/Textures/Atlases/Test/Atlas/Test",
+	"shouldGenerate":"False",
+	"shouldFoldout":"False",
+	"shouldAutoGenerate":"False",
+	"shouldAddSubfolders":"False",
+	"shouldUseBytes":"False",
+	"scale":"1"	"shouldTrim":"False"	"padding":"1"	"extrude":"0"	"trimPadding":"1"
+},
+
+{
+	"sourceFolderPath":"Assets/Resources/Textures/Atlases/UI",
+	"atlasFilePath":"Assets/Resources/Textures/Atlases/UI/Atlas/UI",
+	"shouldGenerate":"False",
+	"shouldFoldout":"True",
+	"shouldAutoGenerate":"False",
+	"shouldAddSubfolders":"False",
+	"shouldUseBytes":"False",
+	"scale":"1"	"shouldTrim":"False"	"padding":"1"	"extrude":"0"	"trimPadding":"1"
+}
+
+]}
